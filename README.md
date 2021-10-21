@@ -15,7 +15,7 @@ Algorithm will be taught in this page.
 * Binary Search
 * Merge Sort
 * Quick Sort
-* 
+* Heap Sort
 * 
 To be continued
 
@@ -31,5 +31,10 @@ To be continued
 #### Quick Sort
 <p><a href="https://github.com/niehmanyo/Jupyter_notebook/blob/main/quick_sort.ipynb">Click here to Quick Sort</a></p>
 
+#### Heap Sort
+<p><a href="https://github.com/niehmanyo/Jupyter_notebook/blob/main/heap_sort.ipynb">Click here to Heap Sort</a></p>
+
 #### Other Algorithm
 * <a href ="https://github.com/niehmanyo/Jupyter_notebook/blob/main/gcd_algorithm.ipynb">Click here to GCD(With three algorithm)(Python)</a>
+
+
