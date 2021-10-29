@@ -1,7 +1,7 @@
 <div align="center">
 <!-- Title: -->
     <h1><a href= "https://github.com/niehmanyo">My page</a>Python</h1>
-<body><img src="1537067582779e7d00f82af.jpg"></body>
+<body><img src="https://cn.bing.com/images/search?view=detailV2&ccid=SJpp2pww&id=5BB3FB96D0611E469089D3BB6E15CC98AC605F4B&thid=OIP.SJpp2pwwZgUulL_cQoPn8gHaDt&mediaurl=https%3a%2f%2fstatic0.makeuseofimages.com%2fwordpress%2fwp-content%2fuploads%2f2020%2f10%2fThe-9-best-free-coding-software-tools-for-writing-your-first-app.jpg&exph=840&expw=1680&q=code&simid=608041964821174851&FORM=IRPRST&ck=2C2FDB4DD6A2FE25F3453A4AB16BF3D2&selectedIndex=9&ajaxhist=0&ajaxserp=0"></body>
 <!-- Short description: -->
   <h3>All algorithms implemented in Python - for education</h3>
 </div>
