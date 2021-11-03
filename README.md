@@ -16,6 +16,7 @@ Algorithm will be taught in this page.
 * Merge Sort
 * Quick Sort
 * Heap Sort
+* Radix Sort
 * Strassen Matrix Multiplication
 * 
 To be continued
@@ -34,6 +35,9 @@ To be continued
 
 #### Heap Sort
 <p><a href="https://github.com/niehmanyo/Jupyter_notebook/blob/main/heap_sort.ipynb">Click here to Heap Sort</a></p>
+
+#### Radix Sort
+<p><a href="https://github.com/niehmanyo/Jupyter_notebook/blob/main/radix_sort.ipynb">Click here to Radix Sort</a></p>
 
 #### Strassen Matrix Multiplication 
 <p><a href ="https://github.com/niehmanyo/Jupyter_notebook/blob/main/strassen_matrix.ipynb">Click here to Strassen Matrix Multiplication</a></p>
