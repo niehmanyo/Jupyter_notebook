@@ -18,6 +18,7 @@ Algorithm will be taught in this page.
 * Heap Sort
 * Radix Sort
 * Strassen Matrix Multiplication
+* Recursive Algorithm
 * 
 To be continued
 
@@ -41,6 +42,9 @@ To be continued
 
 #### Strassen Matrix Multiplication 
 <p><a href ="https://github.com/niehmanyo/Jupyter_notebook/blob/main/strassen_matrix.ipynb">Click here to Strassen Matrix Multiplication</a></p>
+
+#### Recursive Algorithm
+<p><a href="https://github.com/niehmanyo/Jupyter_notebook/blob/main/dynamic_programming_most_calories_problems.ipynb">Most Calories Problems</a></p>
 
 #### Other Algorithm
 * <a href ="https://github.com/niehmanyo/Jupyter_notebook/blob/main/gcd_algorithm.ipynb">Click here to GCD(With three algorithm)(Python)</a>
