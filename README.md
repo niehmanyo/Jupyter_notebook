@@ -19,7 +19,8 @@ Algorithm will be taught in this page.
 * Radix Sort
 * Strassen Matrix Multiplication
 * Recursive Algorithm
-* 
+* Backtracking  
+*
 To be continued
 
 ### List of Algorithms 
@@ -45,6 +46,10 @@ To be continued
 
 #### Recursive Algorithm
 <p><a href="https://github.com/niehmanyo/Jupyter_notebook/blob/main/dynamic_programming_most_calories_problems.ipynb">Most Calories Problems</a></p>
+
+#### Backtracking Algorithm
+<p><a href ="https://github.com/niehmanyo/Jupyter_notebook/blob/main/sudoku_backtracking.ipynb">Sudoku Problems(.ipython file)</a></p>
+<p><a href ="https://github.com/niehmanyo/Jupyter_notebook/tree/main/sudoku_code_backtracking">Sudoku problem(.python file with comments)</a></p>
 
 #### Other Algorithm
 * <a href ="https://github.com/niehmanyo/Jupyter_notebook/blob/main/gcd_algorithm.ipynb">Click here to GCD(With three algorithm)(Python)</a>
